@@ -21,7 +21,7 @@ monitors:
     url: 'https://zonewatcher.com'
     method: GET
     expectStatus: 200
-    linkable: true # allows the title to be a link, default=true
+    linkable: true
 
   - id: returnearly-net
     name: Return Early
@@ -29,4 +29,4 @@ monitors:
     url: 'https://returnearly.net'
     method: GET
     expectStatus: 200
-    linkable: true # allows the title to be a link, default=true
+    linkable: true
